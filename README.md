@@ -1,4 +1,4 @@
-## Co jsme v rámci kurzu zkoušeli: 
+## Co jsme se v rámci kurzu učili: 
 
 Software Testing,
 Manual Testing,
