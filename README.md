@@ -1,4 +1,4 @@
-Co jsme v rámci kurzu zkoušeli: 
+## Co jsme v rámci kurzu zkoušeli: 
 
 Software Testing,
 Manual Testing,
@@ -10,7 +10,7 @@ Exploratory Testing,
 Test Planning
 
 
-Nástroje:
+## Nástroje:
 
 TestRail,
 Postman,
