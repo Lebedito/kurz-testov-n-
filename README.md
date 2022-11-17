@@ -106,8 +106,8 @@ práce s Postmanem
 https://equichannel.cz/ - Chrome DevTools
 ![Equichannel_rychlost](https://user-images.githubusercontent.com/117156625/202182654-11ee24b9-e9bd-42ca-976e-fa43af1672c5.png)
 
-"webovky"
+HTML
 ![Koralek01](https://user-images.githubusercontent.com/117156625/202184063-0155ef61-de3b-482e-8e4e-42608af58b3d.png)
 
-"webovky"
+HTML
 ![Koralek02](https://user-images.githubusercontent.com/117156625/202184092-eb2f6801-e6cb-4575-a2d0-28a32f5e9ff4.png)
