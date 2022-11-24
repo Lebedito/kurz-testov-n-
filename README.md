@@ -14,7 +14,7 @@ Test Planning
 
 TestRail,
 Postman,
-Jira,
+JIRA,
 phpMyAdmin
 
 
