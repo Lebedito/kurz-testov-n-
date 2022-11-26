@@ -89,19 +89,19 @@ práce s databází phpMyAdmin
 ![php](https://user-images.githubusercontent.com/117156625/202184125-8a699813-c3a8-42c4-8f6d-260e57889a3d.png)
 
 práce s Postmanem
-![Postman01](https://user-images.githubusercontent.com/117156625/202184200-0c3f2aba-4570-4bcf-95b0-c8b6bab57f53.png)
+![Postman01](https://user-images.githubusercontent.com/117156625/204087054-de1023d3-86bc-4758-aaef-d2de92f18307.png)
 
 práce s Postmanem
-![Postman02](https://user-images.githubusercontent.com/117156625/202184218-a394284e-c037-4d33-9851-5838d201a366.png)
+![Postman02](https://user-images.githubusercontent.com/117156625/204087094-26752e66-f082-4942-a436-0373babf6a43.png)
 
 práce s Postmanem
-![Postman03](https://user-images.githubusercontent.com/117156625/202184241-25111763-972a-4190-8583-9a2b51ead626.png)
+![Postman03](https://user-images.githubusercontent.com/117156625/204087098-205fad37-3bef-4683-aa27-39b91ca0916c.png)
 
 práce s Postmanem
-![Postman04](https://user-images.githubusercontent.com/117156625/202184260-06749542-667e-4a67-b44a-24c7e70092f2.png)
+![Postman04](https://user-images.githubusercontent.com/117156625/204087102-f3d86cd3-c73f-4886-bb95-138c9e05b477.png)
 
 práce s Postmanem
-![Postman05](https://user-images.githubusercontent.com/117156625/202184277-05a7aa21-6b45-444b-b049-ab8751997e35.png)
+![Postman05](https://user-images.githubusercontent.com/117156625/204087105-39f70211-cee5-4271-b9aa-d01d26b25c4c.png)
 
 https://equichannel.cz/ - Chrome DevTools
 ![Equichannel_rychlost](https://user-images.githubusercontent.com/117156625/202182654-11ee24b9-e9bd-42ca-976e-fa43af1672c5.png)
